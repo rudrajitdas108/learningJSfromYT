@@ -1,0 +1,2 @@
+# learningJSfromYT
+just for practice
